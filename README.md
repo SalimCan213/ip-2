@@ -26,20 +26,20 @@ Bu proje, kullanıcıların farklı ürünleri inceleyip değerlendirmelerini sa
 ---
 
 ## Kurulum
-1. Cmd'den kurmak istediğiniz klasör yolunu belirtip depoyu klonlayın
+1. Cmd'den kurmak istediğiniz klasör yolunu belirtip depoyu klonlayın:
 ```
 git clone https://github.com/SalimCan213/ip-2.git
 ```
 2. .env dosyanızı ayarlayın
-3. Gerekli paketleri yükleyin
+3. Gerekli paketleri yükleyin:
 ```
 composer install
 ```
-4. Projede kullanılacak benzersiz anahtarınızı üretin
+4. Projede kullanılacak benzersiz anahtarınızı üretin:
 ```
 php artisan key:generate
 ```
-5. Sanal sunucunuzu yarattıktan sonra şu kodu konsolunuzda şu kodu yazın
+5. Sanal sunucunuzu yarattıktan sonra şu kodu konsolunuzda şu kodu yazın:
 ```
 php artisan serve
 ```

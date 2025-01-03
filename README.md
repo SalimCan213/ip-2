@@ -31,7 +31,7 @@ Bu proje, kullanıcıların farklı ürünleri inceleyip değerlendirmelerini sa
 git clone https://github.com/SalimCan213/ip-2.git
 ```
 2. .env dosyanızı ayarlayın
-3 Gerekli paketleri yükleyin
+3. Gerekli paketleri yükleyin
 ```
 composer install
 ```

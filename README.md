@@ -30,20 +30,20 @@ Bu proje, kullanıcıların farklı ürünleri inceleyip değerlendirmelerini sa
 ```
 git clone https://github.com/SalimCan213/ip-2.git
 ```
-3. .env dosyanızı ayarlayın
-4. Gerekli paketleri yükleyin
+2. .env dosyanızı ayarlayın
+3 Gerekli paketleri yükleyin
 ```
 composer install
 ```
-6. Projede kullanılacak benzersiz anahtarınızı üretin
+4. Projede kullanılacak benzersiz anahtarınızı üretin
 ```
 php artisan key:generate
 ```
-8. Sanal sunucunuzu yarattıktan sonra şu kodu konsolunuzda şu kodu yazın
+5. Sanal sunucunuzu yarattıktan sonra şu kodu konsolunuzda şu kodu yazın
 ```
 php artisan serve
 ```
-10. Daha sonra açılan server http kodunuza tıklayıp tarayıcınızdan siteyi açın.
+6. Daha sonra açılan server http kodunuza tıklayıp tarayıcınızdan siteyi açın.
 ### Projede Kullanılan teknolojiler (Kullanılan diller, kütüphaneler ve araçlar.)
 - Php laravel
 - MySQL
